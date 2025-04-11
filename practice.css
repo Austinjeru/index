@@ -1,0 +1,64 @@
+h1{
+    color: chocolate; text-align: center;
+}
+body{background-color: black;}
+p{color: antiquewhite; text-shadow: 0svb;}
+.white{color: antiquewhite;}
+li{color: brown;}
+img{float:none;}
+header{color: brown;
+font-family:Verdana, Geneva, Tahoma, sans-serif;}
+footer{color: antiquewhite;}
+h3{color: antiquewhite;}
+h1{color: brown;
+border:2px solid color beige;
+background-color:black;
+width: 100vw ;
+align-items: center;
+text-align: center;
+border-radius: 5px;}
+a{color: darksalmon;}
+.navigation{
+    width: 100vw; 
+    border: 1px solid brown;
+    background-color: brown;
+    border-radius: 5px;
+    position: fixed;
+    top: 0%;left: 0%;
+    display: flex;
+    height: 60px;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+a{text-decoration: solid;
+color: blanchedalmond;
+}
+h2{color: chocolate;}
+.kichwa{margin-top: 100px;
+text-align: center;
+}
+.d1{border: 1px solid;
+width: 370px;
+padding: 10px;
+background-color: black;
+border-radius: 5px;
+text-align: center;}
+img{width: 350px;
+height: 350px;
+;}
+.imagelist{display: flex;
+gap: 10px;
+flex-wrap: wrap;
+align-items: center;
+}
+footer{
+    border: 10px;
+    background-color: crimson;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+button{color: brown;
+background-color: cornsilk;}
